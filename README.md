@@ -8,21 +8,7 @@ this app fixes that by going absolutely unhinged when your battery is low.
 
 **what happens:**
 
-your screen goes dark. your laptop beeps 3 times. then this takes over your entire screen:
-
-```
-⚠ SYSTEM CRITICAL FAILURE ⚠
-
-    /\_____/\
-   /  o   o  \
-  ( ==  ^  == )
-   )         (
-  (           )
- ( (  )   (  ) )
-(__(__)___(__)__)
-
-CHARGE YOUR BATTERY NOW!
-```
+your screen goes dark. your laptop beeps 3 times. a full-screen red "CHARGE YOUR BATTERY NOW!" takes over your screen.
 
 you have 5 seconds to contemplate your choices. then it goes away.
 
