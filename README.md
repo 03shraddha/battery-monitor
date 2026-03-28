@@ -1,5 +1,7 @@
 # battery-monitor
 
+**[watch the demo →](https://x.com/shraddhaha/status/2036340751953698978/video/1)**
+
 windows said "10% battery remaining" and you didn't see it. again.
 
 this app fixes that by going absolutely unhinged when your battery is low.
