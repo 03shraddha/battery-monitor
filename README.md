@@ -2,7 +2,7 @@
 
 **[watch the demo →](https://x.com/shraddhaha/status/2036340751953698978/video/1)**
 
-my laptop died mid-presentation. built this so it doesn't happen again.
+made this so my laptop yells at me if I forget to charge it
 
 ---
 
